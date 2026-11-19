@@ -28,7 +28,7 @@ Using Python, statistical techniques, hypothesis testing, and feature engineerin
 - **Feature Engineering:** Creating and transforming relevant features to extract additional information from the existing data.
 - **Data Visualization:** Using Matplotlib and Seaborn to communicate trends, patterns, and analytical findings.
 
-## 📊 Key Business Insights
+## Key Business Insights
 
 ### 1. Major States Dominate Shipment Activity
 
@@ -61,7 +61,7 @@ The average difference between `actual_time` and `segment_actual_time` is approx
 
 OSRM estimates can be retained as supplementary routing information rather than treated as the primary source of actual delivery duration.
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 ### 1. Recalibrate Customer-Facing Delivery Time Estimates
 
